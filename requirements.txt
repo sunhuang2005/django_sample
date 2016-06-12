@@ -1,0 +1,13 @@
+backports.shutil-get-terminal-size==1.0.0
+decorator==4.0.10
+Django==1.8.9
+ipython==4.2.0
+ipython-genutils==0.1.0
+pickleshare==0.7.2
+Pillow==3.2.0
+PyMySQL==0.7.4
+pyreadline==2.1
+pytz==2016.4
+simplegeneric==0.8.1
+traitlets==4.2.1
+virtualenv==15.0.2
